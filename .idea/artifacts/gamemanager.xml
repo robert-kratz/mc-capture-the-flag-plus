@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gamemanager">
+    <output-path>E:/bungeecord/servers/kbffa/plugins</output-path>
+    <root id="archive" name="gamemanager.jar">
+      <element id="module-output" name="mc-game-manager-1.8" />
+      <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="library" level="project" name="Maven: com.github.azbh111:craftbukkit-1.8.8:R" />
+    </root>
+  </artifact>
+</component>

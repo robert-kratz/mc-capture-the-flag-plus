@@ -1,0 +1,12 @@
+name: gamemanager
+author: salty
+main: us.rjks.game.Main
+version: 1.0.0
+commands:
+  map:
+  setup:
+  kit:
+  team:
+  start:
+  forcestart:
+  forcemap:
